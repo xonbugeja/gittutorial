@@ -1,0 +1,24 @@
+{
+  "name": "gittutorial",
+  "version": "0.1.0",
+  "description": "html5 tools tutorial for Accio Code",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.3.12",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xonbugeja/gittutorial.git"
+  },
+  "author": "Xonbugeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xonbugeja/gittutorial/issues"
+  },
+  "homepage": "https://github.com/xonbugeja/gittutorial"
+}
